@@ -1,6 +1,6 @@
 # Jump Height Measurement System 🏀📏
 
-A computer vision system that accurately measures vertical jump height using **real-time pose estimation** with dynamic calibration. Perfect for athletes, coaches, and fitness enthusiasts.
+A computer vision system that accurately measures vertical jump height using **real-time pose estimation** with dynamic calibration.
 
 ## Key Features ✨
 
